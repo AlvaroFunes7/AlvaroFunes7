@@ -22,7 +22,7 @@ ejemplo de código  `` System.out.print();``
   
 *Texto del segundo apartado*
 
-```
+```java
 public static void cuadrado() {
 		//DIBUJAR CUADRADO
 		int num=pedirdatosInt("INTRODUZCA EL LADO");
